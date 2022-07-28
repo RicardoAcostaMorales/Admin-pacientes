@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/admin-pacientes/static/css/main.3becedc6.css",
+    "main.js": "/admin-pacientes/static/js/main.df05773a.js",
+    "index.html": "/admin-pacientes/index.html",
+    "main.3becedc6.css.map": "/admin-pacientes/static/css/main.3becedc6.css.map",
+    "main.df05773a.js.map": "/admin-pacientes/static/js/main.df05773a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3becedc6.css",
+    "static/js/main.df05773a.js"
+  ]
+}
